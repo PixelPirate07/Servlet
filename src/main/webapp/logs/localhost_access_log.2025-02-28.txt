@@ -57,3 +57,8 @@
 0:0:0:0:0:0:0:1 - - [28/Feb/2025:19:22:12 +0530] "GET /favicon.ico HTTP/1.1" 404 683
 0:0:0:0:0:0:0:1 - - [28/Feb/2025:19:22:19 +0530] "GET /ServletProject/login.html HTTP/1.1" 404 781
 0:0:0:0:0:0:0:1 - - [28/Feb/2025:19:23:16 +0530] "GET /ServletProject/login.html HTTP/1.1" 404 781
+127.0.0.1 - - [28/Feb/2025:23:59:45 +0530] "GET /ServletProject HTTP/1.1" 302 -
+127.0.0.1 - - [28/Feb/2025:23:59:46 +0530] "GET /ServletProject/ HTTP/1.1" 200 57
+127.0.0.1 - - [28/Feb/2025:23:59:51 +0530] "GET /ServletProject HTTP/1.1" 302 -
+127.0.0.1 - - [28/Feb/2025:23:59:51 +0530] "GET /ServletProject/ HTTP/1.1" 200 57
+127.0.0.1 - - [28/Feb/2025:23:59:51 +0530] "GET /favicon.ico HTTP/1.1" 404 683
